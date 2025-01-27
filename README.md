@@ -1,0 +1,2 @@
+# PizzaPlanetAssets
+PizzaPlanet Token
